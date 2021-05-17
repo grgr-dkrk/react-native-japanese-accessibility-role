@@ -2,4 +2,4 @@
 
 文言は WIP
 
-`android/app/src/main/res/values-ja` を `android/app/src/main/res/` にコピー
+`android/app/src/main/res/values-ja` を React Native アプリの `android/app/src/main/res/` にコピー
